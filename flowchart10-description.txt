@@ -1,0 +1,4 @@
+I want to decide whether I should bring an umbrella.
+Input whether it is raining.
+If it is raining, output "Bring an umbrella".
+Otherwise, output "Do not bring an umbrella".
